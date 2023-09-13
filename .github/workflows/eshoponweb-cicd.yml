@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: cloud-shell-storage-westeurope
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: Azure Pass - Sponsorship
+  SUBSCRIPTION-ID: df77bda5-72c6-4b2b-a1fb-68987de9bff5
   WEBAPP-NAME: di-eshoponweb
 
 
